@@ -171,6 +171,9 @@ a.learn-more {
 .project-title {
   height: 50px;
 }
+.bitly .resource {
+  height: 50px;
+}
 
 /* footer styles */
 #footer {
