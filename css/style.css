@@ -175,7 +175,15 @@ a.learn-more {
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
-.bitly .resource {
+.bitly h3 {
+  color: inherit;
+  width: 100%;
+  white-space: nowrap;
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.bundle-description {
   height: 50px;
 }
 
