@@ -1,7 +1,4 @@
 body {
-  -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
 	font: 13px/20px 'lucida grande', 'lucida sans unicode', 'lucida sans', helvetica, arial, sans-serif;
 	color: #636261;
 	background: #f3f2f1;
