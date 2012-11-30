@@ -1,6 +1,6 @@
 # Berkeley Innovation
 
-Instructions to manage the website at [innovation.berkeley.edu][http://innovation.berkeley.edu] and other services.
+Instructions to manage the website at [innovation.berkeley.edu](http://innovation.berkeley.edu) and other services.
 
 ### Introduction
 
@@ -47,4 +47,4 @@ Bitmarks (links) can be added while logged into BI's Bitly account, and filed un
 [BI-Flickr]: http://www.flickr.com/photos/berkeleyinnovation/ "Berkeley Innovation's Flickr page"
 [BI-Behance]: http://www.behance.net/berkeleyinnovation "Berkeley Innovation's Behance"
 [BI-Bitly]: https://bitly.com/u/berkeleyinnovation "Berkeley Innovation's Bitly"
-[BI-Bitly-bundles]: https://bitly.com/u/berkeleyinnovation/bundles "Berkeley Innovation's Bitly bundles
+[BI-Bitly-bundles]: https://bitly.com/u/berkeleyinnovation/bundles "Berkeley Innovation's Bitly bundles"
