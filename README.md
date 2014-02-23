@@ -1,6 +1,8 @@
-# Berkeley Innovation
+## Berkeley Innovation
 
 Instructions to manage the website at [innovation.berkeley.edu](http://innovation.berkeley.edu) and other services.
+
+![Berkeley Innovation website screenshot](github-images/bi-homepage.png)
 
 ### Introduction
 
